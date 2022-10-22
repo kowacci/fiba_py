@@ -10,5 +10,5 @@ while i < n - 2:
     b = c
     i = i + 1
 
-print('Полученное число', b)
+print(b)
 
